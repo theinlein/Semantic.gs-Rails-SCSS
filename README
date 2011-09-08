@@ -1,0 +1,5 @@
+This is a draft version of Semantic.gs converted to SASS for Rails 3.1+
+
+Please view the fixed.html example for an example of a fixed-width layout structure.
+
+For liquid layouts, change the $grid-type variable to "1%" (instead of "1px"). You can test this by removing the div.center from the example HTML so the width is not forced to 960px.
